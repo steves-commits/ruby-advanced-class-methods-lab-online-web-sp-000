@@ -42,7 +42,7 @@ class Song
     end
   end
   
-  def self.alphabetical(title)
+  def self.alphabetical
     title.sort
     
   
