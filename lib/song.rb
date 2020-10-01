@@ -43,7 +43,7 @@ class Song
   end
   
   def self.alphabetical
-    title.sort
+    sorted = self.
     
   
 end
