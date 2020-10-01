@@ -11,5 +11,5 @@ class Song
   end
 
   def self.create
-    
+    song
 end
